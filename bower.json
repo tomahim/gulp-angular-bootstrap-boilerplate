@@ -1,0 +1,38 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.x",
+    "angular": "1.2.x",
+    "angular-animate": "1.2.x",
+    "angular-sanitize": "1.2.x",
+    "angular-i18n": "1.2.x",
+    "restangular": "1.4.0",
+    "angular-ui-router": "0.2.x",
+    "bootstrap": "3.1.x",
+    "angular-resource": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-bootstrap": "0.11.0",
+    "lodash": "2.4.1",
+    "angular-postman": "1.0.2",
+    "angular-moment": "0.8.0",
+    "components-font-awesome": "4.2.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.x"
+  },
+  "resolutions": {
+    "jquery": "1.9.x",
+    "bootstrap": "3.1.x"
+  }
+}
